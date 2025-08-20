@@ -1,6 +1,6 @@
 # eurusd-scraper
 
-Scraper e predittore EUR/USD secondo le best practice vibe coding.
+Scraper e predittore EUR/USD.
 
 ## Struttura
 - `scraper.py`: raccoglie e salva i dati.
